@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Execute a condition</title>
+		<title>Enter data</title>
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h1>Execute a condition</h1>
+		<h1>Enter data</h1>
 		<p>Display data one the console</p>
 
 		<script>
-			// enter your name, surname
-			// ...
+			var name = prompt("Proszę podać imię");
+			var surname = prompt("Proszę podać nazwisko");
+			var age = prompt("Proszę podać wiek");			
 			
-			// display your personal data on the console
-			// ...
+			var confirmation = confirm(name + " " + surname + " " + age + "\n Czy potwierdzasz wprowadzone dane?");
 			
-			// 
+			if (confirmation === true) 
+			{
+			console.log(name + " " + surname + " " + age);
+			alert(name + " " + surname + " " + age);
+			}
+			
+			
 		</script>
 	</body>
 </html>
