@@ -6,28 +6,32 @@
 	</head>
 	<body>
 		<h1>BMI calculator</h1>
-		<button type="button" onclick="BMICalc()">Run BMI calculator</button>
+		
 		
 		<script>
-			function BMICalc(){
+			function calculator()
+			{
 				var BMI = {
 						weight: null,
 						height: null,
 						enterData: function(){
-							// enter weight and height, and assign them to the object properties
+							this.weight = prompt("podaj wagę");
+							this.height = prompt("podaj wzrost");
 						},
 						calculate: function(){
-							return // create a formula for calculating bmi
+							return this.weight / (this.height*this.height);
 						},
 						display: function(){
-							// display the result in a popup window
+							alert("Twoje BMI wynosi: " + this.calculate());
 						}
-				}
+				};
 			
-				// call BMI methods
-				// ...
+				BMI.enterData();
+				BMI.display();
 			
 			}
 		</script>
+		
+		<button type="button" onclick="calculator();">Run BMI calculator</button>
 	</body>
 </html>

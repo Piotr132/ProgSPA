@@ -7,6 +7,39 @@
 	<body>
 		<h1>Create mobile phone</h1>
 		<script>
+		var myMobile = 
+		{
+			manufacturer: 'Xiaomi',
+			model:'Mi5s',
+			ram: 4,
+			specs: { NFC: true, radio: false, bluetooth: 4.2 },
+			cpu: 'Snapdragon 821',
+			sensors: ['fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']		
+		};
+		
+		napis = "Manufacturer: " + myMobile.manufacturer + "\n";
+		napis+= "Model: " + myMobile.model + "\n";
+		napis+= "GBram: " + myMobile.ram + "\n";
+		napis+= "specs: NFC: " + myMobile.specs.NFC + ", Radio: " + myMobile.specs.radio + ", Bluetooth: " + myMobile.specs.bluetooth + "\n";
+		napis+= "CPU: " + myMobile.cpu + "\n";
+		
+		var sensors = "Sensors: " + myMobile.sensors[0];
+		
+		var i;
+			for (i=1; i<myMobile.sensors.length; i++)
+			{
+				sensors+=", " + myMobile.sensors[i];
+			}
+			
+			napis+=(sensors);
+			
+		function showMobile()
+		{
+		alert(napis);
+		}
+		
 		</script>
+		
+		<button id="button" type="button" onClick="showMobile()">ShowMobile</button>
 	</body>
 </html>

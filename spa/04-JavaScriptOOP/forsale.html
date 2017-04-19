@@ -7,6 +7,69 @@
 	<body>
 		<h1>Houses for sale</h1>
 		<script>
+		
+		
+		function House(numberOfbedrooms, facilities, address, price, phone) 
+		{
+			this.numberOfbedrooms = numberOfbedrooms;
+			this.facilities = facilities;
+			this.address = address;
+			this.price = price;
+			this.phone = phone;
+		
+			this.changePrice = function(newPrice)
+			{
+				this.price = newPrice;
+			}
+			
+			this.addFacility =  function(newFacility)
+			{
+				this.facilities.push(newFacility);
+			}
+			
+			this.showHouse = function()
+			{
+				var i;
+				var facilities=this.facilities[0] + ", ";
+				for (i=1; i<this.facilities.length; i++)
+					{
+						facilities += " " + this.facilities[i] + ", ";
+					}
+				console.log("Bedrooms: " + this.numberOfbedrooms + " Facilities: " + facilities + " Address: city: " + this.address.city + ", street: " + this.address.street + ", number: " + this.address.number + " Price: " + this.price + " Phone: " + this.phone ); 
+			}
+		}
+		
+		var dom1 = new House(1, ["garrage", "swimming pool"], {city: "Kraków", street: "Kwiatowa", number: "17"}, 300000, '12 5212547');
+		var dom2 = new House(7, ["garrage", "garden"], {city: "Wieliczka", street: "Polna", number: "3"}, 2000000, '12 2786565');
+		var dom3 = new House(4, ["garden", "swimming pool"], {city: "Gdańsk", street: "Słowackiego", number: "45"}, 600000, '502 333 654');
+		var dom4 = new House(5, ["swimming pool"], {city: "Warszawa", street: "Krakowska", number: "1"}, 750000, '22 5456845');
+		var dom5 = new House(6, ["garrage"], {city: "Rzeszów", street: "Mała", number: "2"}, 1850000, '602 5545554');
+		
+		
+		dom1.showHouse();
+		dom2.showHouse();
+		dom3.showHouse();
+		dom4.showHouse();
+		dom5.showHouse();
+		
+		dom1.changePrice(350000);
+		dom1.showHouse();
+		dom2.changePrice(2100000);
+		dom2.showHouse();
+		dom3.addFacility('pond');
+		dom3.showHouse();
+		dom4.addFacility('garrage');
+		dom4.showHouse();
+		dom5.addFacility('swimming pool');
+		dom5.showHouse();
+		
+		
+		
+		
+		
+		
+		
+		
 		</script>
 	</body>
 </html>

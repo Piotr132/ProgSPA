@@ -18,6 +18,19 @@
 			console.log("## My favourite film ##");
 			console.log("Title: ", myFavMovie.title);
 			console.log("Genre: ", myFavMovie.genre);
+			console.log("year: " , myFavMovie.year);
+			console.log("database: " , myFavMovie.database);
+			console.log("specs: budget: " , myFavMovie.specs.budget, ", language: ", myFavMovie.specs.language , ", digitalSound: ", myFavMovie.specs.digitalSound);
+			var stars = "stars: " + myFavMovie.stars[0];
+			
+			var i;
+			for (i=1; i<myFavMovie.stars.length; i++)
+			{
+				stars+=", " + myFavMovie.stars[i];
+			}
+			
+			console.log(stars);
+
 			// ...
 			
 		</script>
