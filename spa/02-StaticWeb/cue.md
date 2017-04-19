@@ -1,30 +1,30 @@
 # Kraków University of Economics
-
 From Wikipedia, the free encyclopedia
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/4/49/Logo_ue_krakow.jpg "Cracow University of Economics")
+![](https://upload.wikimedia.org/wikipedia/en/4/49/Logo_ue_krakow.jpg)
 
-**Kraków University of Economics** (**CUE**; Polish: _Uniwersytet Ekonomiczny w Krakowie_) is one of the five Polish public economics universities. CUE came into existence in 1925. It is the biggest university of economic sciences in Poland. Kraków University of Economics is one of the three largest universities in Kraków, after Jagiellonian University and the [AGH University of Science and Technology](https://en.wikipedia.org/wiki/AGH_University_of_Science_and_Technology).
+**Kraków University of Economics** (CUE; Polish: Uniwersytet Ekonomiczny w Krakowie) is one of the five Polish public economics universities. CUE came into existence in 1925. It is the biggest university of economic sciences in Poland. Kraków University of Economics is one of the three largest universities in Kraków, after Jagiellonian University and the AGH University of Science and Technology.
 
-> The motto and mission of the university in Latin is "Rerum cognoscere causas et valorem" (in English "To learn the causes and values of things. To provide universal education. To bring together professional and general knowledge of methodological and theoretical character.").
+>The motto and mission of the university in Latin is "Rerum cognoscere causas et valorem" (in English "To learn the causes and values of things. To provide universal education. To bring together professional and general knowledge of methodological and theoretical character.").
 
 Its 17-acre (69,000 m2) campus is in the vicinity of historical medieval Old Town of Kraków and easily accessible both on foot or by public transportation. In addition to the main campus in Kraków, the university has seven Remote Teaching Centers in the cities of the region.
 
-University       | Data
-----------------:|-------------------------
-Type             | Public
-Established      | 1925
-Rector           | Professor Roman Niestrój
-Students         | 20000
-Address          | ul. Rakowicka 27, 31-510 Kraków, Poland
-Website          | http://www.uek.krakow.pl
-English website  | http://uek.krakow.pl/en
+| University  |  Data | 
+|---:|---|
+|Type   |  Public | 
+|Established   |  1925 | 
+|Rector   |   Professor Roman Niestrój | 
+|Students   |  20000 | 
+|Address   |   ul. Rakowicka 27, 31-510 Kraków, Poland | 
+|Website   | [http://www.uek.krakow.pl]() |
+|English website    |   [http://uek.krakow.pl/en]() | 
 
+        
 # History
 
-The university opened its doors on October 1, 1925 as College of Commerce (_Wyższe Studium Handlowe_).
+The university opened its doors on October 1, 1925 as College of Commerce (Wyższe Studium Handlowe).
 
-In 1939 the Nazis arrested several academy professors who later were executed or sent to concentration camps. Two buildings of the school were seized, and numerous library books and documents were lost. Classes continued surreptitiously throughout the war, until the school was able to reopen in 1945. The school was nationalized in 1950 and renamed as Higher School of Economics (_Wyższa Szkoła Ekonomiczna_).
+In 1939 the Nazis arrested several academy professors who later were executed or sent to concentration camps. Two buildings of the school were seized, and numerous library books and documents were lost. Classes continued surreptitiously throughout the war, until the school was able to reopen in 1945. The school was nationalized in 1950 and renamed as Higher School of Economics (Wyższa Szkoła Ekonomiczna).
 
 In 1974 it was renamed again, as Kraków Academy of Economics (_Akademia Ekonomiczna w Krakowie_). In 2007 it received its current name: Kraków University of Economics (_Uniwersytet Ekonomiczny w Krakowie_).
 
@@ -42,38 +42,44 @@ Kraków University of Economics has national rights to admit:
 
 # Structure and Organization
 
-### Faculties
+## Faculties
 
 * Faculty of Economics and International Relations
 * Faculty of Finance
 * Faculty of Commodity Science
 * Faculty of Management
 
-### Study
+## Study
 
 There are about 20,000 students (full- and part-time). The university offers 13 majors and 38 specializations within the majors taught in the Polish language. CUE offers also studies in the English language. The university offers plenty of postgraduate courses and studies as well as MBA programs in cooperation with foreign universities.
 
-# Affiliation
+## Affiliation
 
 Kraków University of Economics is member of many international organizations and networks, such as:
 
 1. European University Association (EUA)
-1. International Council for Open and Distance Education (ICDE)
-1. Network of International Business and Economic Schools (NIBES)
-1. European Master of Business Studies (EMBS)
-1. European Business Consortium (EBC)
-1. International Education Knowledge Network (IEKN)
-1. US Department of State-Affiliated Overseas Educational Advising Centers
-1. Central European Exchange Program for University Studies (CEEPUS)
+2. International Council for Open and Distance Education (ICDE)
+3. Network of International Business and Economic Schools (NIBES)
+4. European Master of Business Studies (EMBS)
+5. European Business Consortium (EBC)
+6. International Education Knowledge Network (IEKN)
+7. US Department of State-Affiliated Overseas Educational Advising Centers
+8. Central European Exchange Program for University Studies (CEEPUS)
 
 # Student's personal information
 
-Write 4-5 sentences about yourself (in English or Polish), your studies, hobby, etc. Add at least 2 pictures.
+![](http://v-ie.uek.krakow.pl/~s189490/spa/picture2.png)
+            Anna Madej  
+			UEK 2017  
+			Kierunek studiów: informatyka stosowana  
+			Grupa: KrZZis3011io  
+			Numer albumu: 189490  
+![](	http://v-ie.uek.krakow.pl/~s189490/spa/picture1.jpg)
+	
 
 # The best websites on the Internet
 
-A numbered list of your five favourite websites with links ...
-
-
-
+1. [GOOGLE](http://www.google.pl)
+2. [WIKIPEDIA](http://www.wikipedia)
+3. [ONET](http://www.onet.pl)
 
